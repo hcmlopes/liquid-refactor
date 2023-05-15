@@ -4,6 +4,10 @@
   "description": "helps refactor liquid code into snippets",
   "version": "0.0.1",
   "publisher": "hcmlopes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hcmlopes/liquid-refactor"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
